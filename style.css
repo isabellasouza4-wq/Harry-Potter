@@ -12,7 +12,7 @@ body {
 .lista {
     color: darkblue;
     display: inline-block;
-    text-align: left;
+    text-align: center;
 }
 
 a:hover {
