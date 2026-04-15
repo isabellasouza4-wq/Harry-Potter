@@ -11,6 +11,8 @@ body {
 
 .lista {
     color: darkblue;
+    display: inline-block;
+    text-align: left;
 }
 
 a:hover {
@@ -19,6 +21,7 @@ a:hover {
 
 table {
     background-color: white;
+    margin: 0 auto;
 }
 
 h1 {
