@@ -4,24 +4,22 @@ body {
     text-align: center;
 }
 
-#titulo {
-    color: darkred;
-    text-align: center;
-}
-
-.lista {
-    color: darkblue;
-    display: inline-block;
-    text-align: center;
-}
-
-a:hover {
-    color: red;
-}
 
 table {
     background-color: white;
     margin: 0 auto;
+}
+
+
+.lista {
+    color: darkblue;
+    display: inline-block;
+    text-align: left;
+}
+
+
+#titulo {
+    color: darkred;
 }
 
 h1 {
