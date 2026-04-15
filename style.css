@@ -1,0 +1,25 @@
+body {
+    background-color: #f5f5dc;
+    font-family: Arial;
+}
+
+#titulo {
+    color: darkred;
+    text-align: center;
+}
+
+.lista {
+    color: darkblue;
+}
+
+a:hover {
+    color: red;
+}
+
+table {
+    background-color: white;
+}
+
+h1 {
+    font-size: 30px;
+}
